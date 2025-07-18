@@ -1,0 +1,23 @@
+cat > .gitignore <<EOF
+# Compiled Java class files
+/out/
+*.class
+
+# IDE/Editor files
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env variables
+.env
+
+# Logs
+*.log
+EOF
+
+# Source files
+sources.txt

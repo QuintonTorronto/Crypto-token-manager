@@ -1,0 +1,6 @@
+INSERT INTO tokens (name, symbol, price_usd, market_cap_usd, total_supply)
+VALUES 
+  ('Ethereum', 'ETH', 3500.5023456789, 500000000000.00, 120000000.00),
+  ('Solana', 'SOL', 20.7534567890, 8000000000.00, 400000000.00),
+  ('Pepe', 'PEPE', 0.0000012345, 300000000.00, 420690000000000.00);
+  ('AakarshSaxena','ASX',800000.00,450000000.00,7895200.00);
