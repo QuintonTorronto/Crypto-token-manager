@@ -67,6 +67,7 @@ Instead of manually running `javac`/`java`, use the scripts:
 
 ## 📁 Project Structure
 
+```bash
 CryptoTokenManager/
 ├── src/
 │ └── com.crypto.tokenmanager/
@@ -79,7 +80,5 @@ CryptoTokenManager/
 │ └── sample_data.sql # Sample tokens
 ├── .env # Hidden DB credentials
 └── README.md
-
-```
 
 ```
